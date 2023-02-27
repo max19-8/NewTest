@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewTest</string>
+    <string name="loading_text">Загрузка…</string>
+    <string name="temp">Температура: %1$s°C</string>
+    <string name="temp_day">Температура днем: %1$s°C</string>
+    <string name="temp_evening">Температура вечером: %1$s°C</string>
+    <string name="temp_feels_like">Ощущается как: %1$s°C</string>
+    <string name="forecast_for_the_week">Прогноз на неделю  %1$s</string>
+</resources>
